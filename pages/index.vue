@@ -10,5 +10,6 @@
       </template>
     </Suspense>
     <InputEntry />
+    <ServerRouteTest />
   </div>
 </template>
