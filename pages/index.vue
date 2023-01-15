@@ -9,7 +9,7 @@
         </div>
       </template>
     </Suspense>
-    <InputEntry />
+    <CreateUser />
     <ServerRouteTest />
   </div>
 </template>
